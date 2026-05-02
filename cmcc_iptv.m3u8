@@ -1,0 +1,261 @@
+#EXTM3U
+#EXTINF:-1, CCTV-新闻
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv13xwhd8m/index.m3u8
+#EXTINF:-1, CCTV-1
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8
+#EXTINF:-1, CCTV-2
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv2hd8m/index.m3u8
+#EXTINF:-1, CCTV-4
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv4sd/index.m3u8
+#EXTINF:-1, CCTV-3
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv3hd/index.m3u8
+#EXTINF:-1, CCTV-5
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd/index.m3u8
+#EXTINF:-1, CCTV-6
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv6hd8m/index.m3u8
+#EXTINF:-1, CCTV-7
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv7hd8m/index.m3u8
+#EXTINF:-1, CCTV-8
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv8hd8m/index.m3u8
+#EXTINF:-1, CCTV-9
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv9hd4mc/index.m3u8
+#EXTINF:-1, CCTV-10
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-cctv10hd/index.m3u8
+#EXTINF:-1, CCTV-11
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv11/index.m3u8
+#EXTINF:-1, CCTV-12
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv12hd8m/index.m3u8
+#EXTINF:-1, CCTV-少儿
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvsehd8m/index.m3u8
+#EXTINF:-1, CCTV-音乐
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvyysd4mc/index.m3u8
+#EXTINF:-1, CCTV-16
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8
+#EXTINF:-1, CCTV-17
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv17hd4mc/index.m3u8
+#EXTINF:-1, CCTV-5+
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd8m/index.m3u8
+#EXTINF:-1, 安徽卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ahwshd8m/index.m3u8
+#EXTINF:-1, 湖南卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hunanwshd8m/index.m3u8
+#EXTINF:-1, 东方卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dfwshd8m/index.m3u8
+#EXTINF:-1, 北京卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/bjwshd8m/index.m3u8?
+#EXTINF:-1, 浙江卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zjwshd8m/index.m3u8
+#EXTINF:-1, 江苏卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jswshd8m/index.m3u8
+#EXTINF:-1, 天津卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/tjwshd8m/index.m3u8?
+#EXTINF:-1, 山东卫视
+http://120.210.193.151:8006/120000001002/XMTsdwshd/index.m3u8
+#EXTINF:-1, 辽宁卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/lnwshd8m/index.m3u8?
+#EXTINF:-1, 深圳卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/szwshd8m/index.m3u8?
+#EXTINF:-1, 江西卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jxws8m/index.m3u8
+#EXTINF:-1, 贵州卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gzwshd8m/index.m3u8
+#EXTINF:-1, 吉林卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jlwshd8m/index.m3u8
+#EXTINF:-1, 广东卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gdwshd8m/index.m3u8
+#EXTINF:-1, 湖北卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hubeiws8m/index.m3u8?
+#EXTINF:-1, 河北卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hbws/index.m3u8
+#EXTINF:-1, 山西卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/shanxiws/index.m3u8
+#EXTINF:-1, 重庆卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cqws8m/index.m3u8
+#EXTINF:-1, 四川卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/scwshd/index.m3u8
+#EXTINF:-1, 广西卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gxwshd8m/index.m3u8
+#EXTINF:-1, 陕西卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/sxwssd4m/index.m3u8
+#EXTINF:-1, 甘肃卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gswssd4m/index.m3u8
+#EXTINF:-1, 宁夏卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/nxwssd4m/index.m3u8
+#EXTINF:-1, 青海卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/qhwssd4m/index.m3u8
+#EXTINF:-1, 旅游卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hainanwshd8m/index.m3u8
+#EXTINF:-1, 新疆卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/xjwssd4m/index.m3u8
+#EXTINF:-1, 兵团卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/btwssd4m/index.m3u8
+#EXTINF:-1, 黑龙江卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hljwshd8m/index.m3u8?
+#EXTINF:-1, 云南卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ynwshd8m/index.m3u8
+#EXTINF:-1, 东南卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dnwshd8m/index.m3u8?
+#EXTINF:-1, 河南卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hnwshd8m/index.m3u8
+#EXTINF:-1, 中国教育-1
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgjy1thd/index.m3u8
+#EXTINF:-1, 中国教育-4
+http://120.210.193.151:8006/120000001002/XMTcetv-4/index.m3u8
+#EXTINF:-1, 厦门卫视
+http://120.210.193.151:8006/120000001002/XMTxmws/index.m3u8
+#EXTINF:-1, 三沙卫视
+http://120.210.193.151:8006/120000001002/XMTssws/index.m3u8
+#EXTINF:-1, 中国教育-2
+http://120.210.193.151:8006/120000001002/XMTcetv-2/index.m3u8
+#EXTINF:-1, 内蒙古卫视
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/nmgws2d5m/index.m3u8
+#EXTINF:-1, 哈哈炫动
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hhxd8m/index.m3u8
+#EXTINF:-1, 动漫秀场
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dmxc8m/index.m3u8
+#EXTINF:-1, 游戏风云
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/yxfy8m/index.m3u8
+#EXTINF:-1, 东方财经
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dfcjhd8m/index.m3u8
+#EXTINF:-1, 卡酷卡通
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/kkse8m/index.m3u8
+#EXTINF:-1, 嘉佳卡通
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jjkt2d5m/index.m3u8
+#EXTINF:-1, 都市剧场
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dsjc8m/index.m3u8
+#EXTINF:-1, 东方购物上星
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dfgwsxhd8m/index.m3u8
+#EXTINF:-1, 法治天地
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/fztd8m/index.m3u8
+#EXTINF:-1, 生活时尚
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/shss8m/index.m3u8
+#EXTINF:-1, 中国天气
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgqxhd4mc/index.m3u8
+#EXTINF:-1, 直播室4
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba4/index.m3u8
+#EXTINF:-1, 金色学堂
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jingsepd8m/index.m3u8
+#EXTINF:-1, 金鹰卡通
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jykt/index.m3u8
+#EXTINF:-1, 足球频道
+http://120.210.193.151:8006/120000001002/XMTzqpd/index.m3u8
+#EXTINF:-1, 优购物
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/HD-4000k-1080P-yougw/index.m3u8
+#EXTINF:-1, 家有购物
+http://120.210.193.151:8006/120000001001/wlds:8080/ysten-business/live/SD-1500k-576P-jiayougw/1.m3u8
+#EXTINF:-1, CCTV-1(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv1hd4mc/index.m3u8
+#EXTINF:-1, CCTV-2(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv2hd8m/index.m3u8
+#EXTINF:-1, CCTV-3(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv3hd/index.m3u8
+#EXTINF:-1, CCTV-4(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv4sd/index.m3u8
+#EXTINF:-1, CCTV-5(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd/index.m3u8
+#EXTINF:-1, CCTV-6(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv6hd8m/index.m3u8
+#EXTINF:-1, CCTV-7(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv7hd8m/index.m3u8
+#EXTINF:-1, CCTV-8(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv8hd8m/index.m3u8
+#EXTINF:-1, CCTV-9(高清）
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv9hd4mc/index.m3u8
+#EXTINF:-1, CCTV-10(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-cctv10hd/index.m3u8
+#EXTINF:-1, CCTV-11(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv11/index.m3u8
+#EXTINF:-1, CCTV-12(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv12hd8m/index.m3u8
+#EXTINF:-1, CCTV-新闻(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv13xwhd8m/index.m3u8
+#EXTINF:-1, CCTV-少儿(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvsehd8m/index.m3u8
+#EXTINF:-1, CCTV-音乐(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctvyysd4mc/index.m3u8
+#EXTINF:-1, CCTV-16(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv16hd8m/index.m3u8
+#EXTINF:-1, CCTV-17(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv17hd4mc/index.m3u8
+#EXTINF:-1, CCTV-5+(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd8m/index.m3u8
+#EXTINF:-1, 安徽卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ahwshd8m/index.m3u8
+#EXTINF:-1, 湖南卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hunanwshd8m/index.m3u8
+#EXTINF:-1, 浙江卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zjwshd8m/index.m3u8
+#EXTINF:-1, 江苏卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jswshd8m/index.m3u8
+#EXTINF:-1, 江西卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jxws8m/index.m3u8
+#EXTINF:-1, 贵州卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gzwshd8m/index.m3u8
+#EXTINF:-1, 重庆卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cqws8m/index.m3u8
+#EXTINF:-1, 旅游卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hainanwshd8m/index.m3u8
+#EXTINF:-1, 山东卫视(高清)
+http://120.210.193.151:8006/120000001002/XMTsdwshd/index.m3u8
+#EXTINF:-1, 东方卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dfwshd8m/index.m3u8
+#EXTINF:-1, 北京卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/bjwshd8m/index.m3u8?
+#EXTINF:-1, 天津卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/tjwshd8m/index.m3u8?
+#EXTINF:-1, 辽宁卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/lnwshd8m/index.m3u8?
+#EXTINF:-1, 广东卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gdwshd8m/index.m3u8
+#EXTINF:-1, 河北卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hbws/index.m3u8
+#EXTINF:-1, 四川卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/scwshd/index.m3u8
+#EXTINF:-1, 陕西卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/sxwssd4m/index.m3u8
+#EXTINF:-1, 东南卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/dnwshd8m/index.m3u8?
+#EXTINF:-1, 河南卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hnwshd8m/index.m3u8
+#EXTINF:-1, 中国教育-1(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/zgjy1thd/index.m3u8
+#EXTINF:-1, 深圳卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/szwshd8m/index.m3u8?
+#EXTINF:-1, 吉林卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jlwshd8m/index.m3u8
+#EXTINF:-1, 湖北卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hubeiws8m/index.m3u8?
+#EXTINF:-1, 黑龙江卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/hljwshd8m/index.m3u8?
+#EXTINF:-1, 广西卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/gxwshd8m/index.m3u8
+#EXTINF:-1, 云南卫视(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/ynwshd8m/index.m3u8
+#EXTINF:-1, 金鹰卡通(高清)
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/jykt/index.m3u8
+#EXTINF:-1, 安徽经视高清
+http://120.210.193.151:8006/120000001002/XMTah_jjhd/index.m3u8
+#EXTINF:-1, 安徽影视高清
+http://120.210.193.151:8006/120000001002/XMTah_yshd/index.m3u8
+#EXTINF:-1, 安徽科教高清
+http://120.210.193.151:8006/120000001002/XMTah_kjhd/index.m3u8
+#EXTINF:-1, 安徽综艺高清
+http://120.210.193.151:8006/120000001002/XMTah_zyhd/index.m3u8
+#EXTINF:-1, 安徽公共高清
+http://120.210.193.151:8006/120000001002/XMTah_gghd/index.m3u8
+#EXTINF:-1, 安徽国际
+http://120.210.193.151:8006/120000001002/XMTahgj/index.m3u8
+#EXTINF:-1, 安徽导视
+http://120.210.193.151:8006/120000001002/XMTah_gddspd/index.m3u8
+#EXTINF:-1, 合肥新闻
+http://120.210.193.151:8006/120000001002/XMThfxw/1.m3u8
+#EXTINF:-1, 直播室6
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba6/index.m3u8
+#EXTINF:-1, 睛彩篮球
+http://120.210.193.151:8006/000000001001/3000000020000011529/3000000020000011529.m3u8
+#EXTINF:-1, 睛彩竞技
+http://120.210.193.151:8006/000000001001/3000000020000011528/3000000020000011528.m3u8
+#EXTINF:-1, 睛彩青少
+http://120.210.193.151:8006/000000001001/3000000020000031315/3000000020000031315.m3u8
+#EXTINF:-1, 直播室5
+http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/4M-hdnba5/index.m3u8
